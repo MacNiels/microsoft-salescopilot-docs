@@ -18,6 +18,21 @@ If you don't have access to Copilot for Sales, ask your administrator to install
 
 As a seller, you communicate with a lot of potential customers by email. Copilot for Sales helps you prepare for your engagements. It gathers information from your CRM system and Microsoft Office and enriches it with actionable insights, so you can be more effective right where you spend most of your day.
 
+### Before Accessing Pilot for Sales in Outlook
+
+- **Verify Availability**: Ensure that Pilot for Sales is active in your version of Outlook. If the following steps do not appear, you may need to activate Copilot for Sales.
+
+- **Add Copilot for Sales**:
+
+    - Navigate to https://outlook.office365.com.
+
+    - Click on **"More Apps"**.
+
+    - Search for **"Copilot for Sales"**.
+
+    - Select **"Copilot for Sales"** and click **"Add"**.
+ 
+
 You can access Copilot for Sales using any of the following options:
 
 ### Outlook desktop
